@@ -92,8 +92,7 @@ To set up and use this project, follow these steps:
 ```bash
     ./Addresshub.sh
   ```
-## System Requirements 🖥️
-
-    Linux-based operating system (e.g., Ubuntu, CentOS, etc.)
-    BASH shell environment 🖱️
-    Basic knowledge of using terminal/command line 💡
+### System Requirements 🖥️
+- Linux-based operating system (e.g., Ubuntu, CentOS, etc.)
+- BASH shell environment 🖱️
+- Basic knowledge of using terminal/command line 💡
