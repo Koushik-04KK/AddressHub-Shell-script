@@ -96,3 +96,7 @@ To set up and use this project, follow these steps:
 - Linux-based operating system (e.g., Ubuntu, CentOS, etc.)
 - BASH shell environment 🖱️
 - Basic knowledge of using terminal/command line 💡
+
+### YouTube Video Tutorial 🎥
+For a detailed step-by-step guide and demonstration of how to use the Address Database Management System, watch the video below:
+[Watch the tutorial here](https://youtu.be/oj5iRaKNl24)
