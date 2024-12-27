@@ -8,13 +8,9 @@ The tool performs CRUD operations, allowing users to manage address book entries
 
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
-  - [Activity Log File](#activity-log-file)
-  - [Working Environment Settings](#working-environment-settings)
-  - [User Interface](#user-interface)
-    - [Add Entry](#add-entry)
 - [Features](#features)
 - [Installation](#installation)
-- [License](#license)
+
 
 ## Project Overview 📂
 
@@ -81,7 +77,7 @@ After the user completes the fields, the information is stored along with the cu
 To set up and use this project, follow these steps:
 
 1. Clone the repository or download the script:
-   ```bash
+```bash
    git clone https://github.com/yourusername/AddressHub-Shell-script.git
     ```
 2.Navigate to the directory where the script is located:
